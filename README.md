@@ -95,7 +95,7 @@ google-play-app-survival/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 python main.py
