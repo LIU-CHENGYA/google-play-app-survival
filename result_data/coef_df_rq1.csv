@@ -1,0 +1,10 @@
+﻿,feature,coef
+3,desc_avg_word_length,0.7933175147753464
+5,rev_unique_word_count,0.6599537030900758
+7,rev_avg_word_length,0.6243749456132438
+4,rev_text_length,0.5313233248798723
+2,desc_lexical_diversity,0.3475417418206476
+0,desc_text_length,0.33400503517389385
+1,desc_unique_word_count,0.086298356275505
+8,cosine_similarity,-0.2466408530685758
+6,rev_lexical_diversity,-1.3768765640328418

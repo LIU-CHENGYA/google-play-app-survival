@@ -1,0 +1,33 @@
+
+紀錄一些重要的東西
+語言學習
+
+    "language learning"
+
+    "learn English"
+
+    "vocabulary"
+
+    "TOEIC"
+
+    "JLPT"
+
+證照考試
+
+    "certification"
+
+    "exam prep"
+
+    "test prep"
+
+    "license exam"
+
+
+
+| 欄位            | 用途          |
+| ------------- | ----------- |
+| `updated`     | 定義存活        |
+| `ratings`     | 使用者互動 proxy |
+| `score`       | 控制品質        |
+| `installs`    | 熱門程度        |
+| `description` | NLP 主體      |
