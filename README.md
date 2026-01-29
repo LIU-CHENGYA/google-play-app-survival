@@ -1,4 +1,4 @@
-# Google Play App Survival Analysis via NLP & Semantic Competition Modeling
+# Google Play App Survival Analysis using NLP and Machine Learning
 
 本專案以 **Google Play Store 上的語言學習 App** 為主要分析對象，透過語意文本探勘方法，探討 App 描述文本與其「存活機率」或「熱門程度」之間的關聯
 
