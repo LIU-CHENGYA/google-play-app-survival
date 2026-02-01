@@ -15,7 +15,7 @@ import file_utils
 
 # function 1：抓 App ID
 def retrieve_appId():
-    key_category = ['language learning','Education','vocabulary','English','listen','Grammar','TOEIC','IELTS','ljanpanese','teaching','speak','French','AI learning']
+    key_category = ['language learning','Education','vocabulary','English','listen','Grammar','TOEIC','IELTS','janpanese','teaching','speak','French','AI learning']
     key_appId = []
     
     for category in key_category:
